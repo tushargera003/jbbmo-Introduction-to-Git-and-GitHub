@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+Fix applied by Tushar Gera - bug-fix-typo branch
